@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8963eade43e41179cac67d713768c2a, type: 3}
+  m_Name: NewPlayerDefaultSetup
+  m_EditorClassIdentifier: 
+  _defaultResources:
+  - Id: 0
+    ItemName: BoxRed
+    Quantity: 10
+    IsBeingUse: 0
+    _position:
+      X: 0
+      Y: 0
+      Z: 0
+    Rotation:
+      X: 0
+      Y: 0
+      Z: 0
+    Scale:
+      X: 1
+      Y: 1
+      Z: 1
+  - Id: 1
+    ItemName: BoxGreen
+    Quantity: 10
+    IsBeingUse: 0
+    _position:
+      X: 0
+      Y: 0
+      Z: 0
+    Rotation:
+      X: 0
+      Y: 0
+      Z: 0
+    Scale:
+      X: 1
+      Y: 1
+      Z: 1
+  - Id: 2
+    ItemName: BoxBlue
+    Quantity: 10
+    IsBeingUse: 0
+    _position:
+      X: 0
+      Y: 0
+      Z: 0
+    Rotation:
+      X: 0
+      Y: 0
+      Z: 0
+    Scale:
+      X: 1
+      Y: 1
+      Z: 1

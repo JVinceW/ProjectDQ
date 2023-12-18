@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7c396a4cb4c4ed0b92b57fedef6aab6, type: 3}
+  m_Name: PlacementItemDataTable
+  m_EditorClassIdentifier: 
+  _dataRows:
+  - _id: 0
+    _itemName: BoxRed
+    _objectPrefab:
+      m_AssetGUID: e04fe4da94419314c9ab7e4cb2160103
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    _iconSprite:
+      m_AssetGUID: 6ac60145ec8b9054d914fcceed94a313
+      m_SubObjectName: btn_red
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    _objectCellSize: {x: 1, y: 1, z: 1}
+    _maxQuantity: 1000
+  - _id: 1
+    _itemName: BoxGreen
+    _objectPrefab:
+      m_AssetGUID: d1ed0ac8bfb1c7b45973f9361c0fe090
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    _iconSprite:
+      m_AssetGUID: d67323614e0f4c14889d485095d937fa
+      m_SubObjectName: btn_green
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    _objectCellSize: {x: 1, y: 1, z: 1}
+    _maxQuantity: 1000
+  - _id: 2
+    _itemName: BoxBlue
+    _objectPrefab:
+      m_AssetGUID: e57622421825d42438d2bd24c99a40a7
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    _iconSprite:
+      m_AssetGUID: 0b9a265f2339c3a4fb44bb57daf5fd5c
+      m_SubObjectName: btn_blue
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    _objectCellSize: {x: 1, y: 1, z: 1}
+    _maxQuantity: 1000

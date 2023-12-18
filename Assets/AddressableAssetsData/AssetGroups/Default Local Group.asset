@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 47db07e3d3119364bb99bea0b7b9b1bb
+  m_SerializeEntries:
+  - m_GUID: e04fe4da94419314c9ab7e4cb2160103
+    m_Address: Assets/GameContent/PlacementItem/Box/BoxRed_prefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d1ed0ac8bfb1c7b45973f9361c0fe090
+    m_Address: Assets/GameContent/PlacementItem/Box/BoxGreen_prefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e57622421825d42438d2bd24c99a40a7
+    m_Address: Assets/GameContent/PlacementItem/Box/BoxBlue_prefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6f7614bfea9d63348b51efde6b164a27
+    m_Address: Assets/polyperfect/Fancy GUI Kit/Images/_UI/badge_box_blue.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3d9656b1f5fcb484294e65265b2b0370
+    m_Address: Assets/polyperfect/Fancy GUI Kit/Images/_UI/badge_box_green.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 668e820c20cf98e4eb958ee31109f421
+    m_Address: Assets/polyperfect/Fancy GUI Kit/Images/_UI/badge_box_red.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0b9a265f2339c3a4fb44bb57daf5fd5c
+    m_Address: Assets/polyperfect/Fancy GUI Kit/Images/_UI/btn_blue.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d67323614e0f4c14889d485095d937fa
+    m_Address: Assets/polyperfect/Fancy GUI Kit/Images/_UI/btn_green.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6ac60145ec8b9054d914fcceed94a313
+    m_Address: Assets/polyperfect/Fancy GUI Kit/Images/_UI/btn_red.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6b8e3c78ba8e85e49b88794ddbd7534b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0cb05cd74e813e348a3864fb3e73f33e, type: 2}
+    - {fileID: 11400000, guid: 1da7d79007fb3804fbc4005ff9640b7e, type: 2}
